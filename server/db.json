@@ -111,47 +111,182 @@
     ],
 
    "drum" :[
-    {     
-        "image" :"./img/7.png",
-        "image2" :"img/8back.png",
-        "image3" :"",
-        "title" :" Tambor de lengüeta AKE BONO 9 notas (Japanese Sound)",
-        "Smaterial":" Acero especial ",
-        "Smeasures":": 25 cm de diámetro x 15 cm de alto",
-        "Sprice" : "$2,400 MXN",
+       {     
+           "image" :"./img/7.png",
+           "image2" :"img/8back.png",
+           "image3" :"",
+           "title" :" Tambor de lengüeta AKE BONO 9 notas (Japanese Sound)",
+           "Smaterial":" Acero especial ",
+           "Smeasures":": 25 cm de diámetro x 15 cm de alto",
+           "Sprice" : "$2,400 MXN",
+   
+           "material":" Special Steel ",
+           "measures": " : 25 cm diameter x 15 cm high ",
+           "price":"133.81 US Dollar"
+        },
+        {     
+            "image" :"./img/9.png",
+            "image2" :"img/10back.png",
+            "image3" :"",
+            "title" :"  Tambor de lengüeta D MINOR 8 notas",
+            "Smaterial":" Acero especial ",
+            "Smeasures":"25 cm de diámetro x 15 cm de alto",
+            "Sprice" : "$2,200 MXN",
+        
+            "material":" Special Steel ",
+            "measures": " 25 cm diameter x 15 cm high ",
+            "price":"133.15 US Dollar"
+        },           
 
-        "material":" Special Steel ",
-        "measures": " : 25 cm diameter x 15 cm high ",
-        "price":"133.81 US Dollar"
-   },
-   {     
-    "image" :"./img/9.png",
-    "image2" :"img/10back.png",
-    "image3" :"",
-    "title" :"  Tambor de lengüeta D MINOR 8 notas",
-    "Smaterial":" Acero especial ",
-    "Smeasures":": 25 cm de diámetro x 15 cm de alto",
-    "Sprice" : "$2,200 MXN",
+        {     
+            "image" :"./img/11front.png",
+            "image2" :"img/12back.png",
+            "image3" :"",
+            "title" :" Tambor de lengüeta A MINOR 8 notas",
+            "Smaterial":" Acero especial ",
+            "Smeasures":"25 cm de diámetro x 15 cm de alto",
+            "Sprice" : "$2,200 MXN",
 
-    "material":" Special Steel ",
-    "measures": " : 25 cm diameter x 15 cm high ",
-    "price":"133.15 US Dollar"
-},
+            "material":" Special Steel ",
+            "measures": " : 25 cm diameter x 15 cm high ",
+            "price":"133.15 US Dollar"
+        },
+        {     
+            "image" :"./img/13front.png",
+            "image2" :"img/14back.png",
+            "image3" :"",
+            "title" :"  Tambor de lengüeta A AKE BONO 8 notas",
+            "Smaterial":" Acero especial ",
+            "Smeasures":"25 cm de diámetro x 15 cm de alto",
+            "Sprice" : "$2,200 MXN",
 
-{     
-    "image" :"./img/11front.png",
-    "image2" :"img/12back.png",
-    "image3" :"",
-    "title" :" Tambor de lengüeta A MINOR 8 notas",
-    "Smaterial":" Acero especial ",
-    "Smeasures":": 25 cm de diámetro x 15 cm de alto",
-    "Sprice" : "$2,200 MXN",
+            "material":" Special Steel ",
+            "measures": "25 cm diameter x 15 cm high ",
+            "price":"133.15 US Dollar"
+        },
+        {     
+            "image" :"./img/15front.png",
+            "image2" :"img/16back.png",
+            "image3" :"",
+            "title" :"Tambor de lengüeta SMALL HAPPY DRUM 8 notas",
+            "Smaterial":" Acero especial ",
+            "Smeasures":"15 cm de diámetro x 15 cm de alto",
+            "Sprice" : "$1,300 MXN",
 
-    "material":" Special Steel ",
-    "measures": " : 25 cm diameter x 15 cm high ",
-    "price":"133.15 US Dollar"
-}
+            "material":" Special Steel ",
+            "measures": "25 cm diameter x 15 cm high ",
+            "price":"72.12 US Dollar"
+        },
+        {     
+            "image" :"./img/17front.png",
+            "image2" :"img/01drumCover.png",
+            "image3" :"",
+            "title" :"ZENGKO 9 notas",
+            "Smaterial":" Acero especial ",
+            "Smeasures":"35 cm de diámetro x 15 cm de alto",
+            "Sprice" : "$3,700 MXN",
 
-]
+            "material":" Special Steel ",
+            "measures": "25 cm diameter x 15 cm high ",
+            "price":"205.28 US Dollar"
+        }
+
+    ],
+
+    "djembe" :[
+        {
+            
+            "image" :"./img/18.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"DJEMBE Especial Red 32 rings",
+            "Smaterial":"Madera con piel natural ",
+            "Smeasures":"35 cm diámetro x 65 cm alto",
+            "Sprice" : "$4,400 MXN",
+
+            "material":"Wood with natural leather",
+            "measures": "35 cm diameter x 65 cm high ",
+            "price":"244.11 US Dollar"
+        
+        },
+        {
+            
+            "image" :"./img/18.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"DJEMBE Normal 28 rings",
+            "Smaterial":"Madera con piel natural",
+            "Smeasures":"35 cm diámetro x 60 cm alto",
+            "Sprice" : "$4,000 MXN",
+
+            "material":"Wood with natural leather",
+            "measures": "35 cm diameter x 60 cm high ",
+            "price":"221.92 US Dollar"
+        
+        },
+        {
+            
+            "image" :"./img/18.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"DJEMBE 40",
+            "Smaterial":"Madera con piel natural",
+            "Smeasures":"23 cm diámetro x 40 cm alto",
+            "Sprice" : "$1,300 MXN",
+
+            "material":"Wood with natural leather",
+            "measures": "23 cm diameter x 40 cm high ",
+            "price":"72.12 US Dollar"
+        
+        },
+        {
+            
+            "image" :"./img/18.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"DJEMBE 30",
+            "Smaterial":"Madera con piel natural",
+            "Smeasures":"20 cm diámetro x 30 cm alto",
+            "Sprice" : "$800 MXN",
+
+            "material":"Wood with natural leather",
+            "measures": "20 cm diameter x 30 cm high ",
+            "price":"44.38 US Dollar"
+        
+        },
+
+        {
+            
+            "image" :"./img/18.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"DJEMBE 20",
+            "Smaterial":"Madera con piel natural",
+            "Smeasures":"12 cm diámetro x 20 cm alto",
+            "Sprice" : "$300 MXN",
+
+            "material":"Wood with natural leather",
+            "measures": "20 cm diameter x 30 cm high ",
+            "price":"16.64 US Dollar"
+        
+        }
+
+    ],
+    
+    "singleOther" :[
+        {
+            "image" :"./img/19.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"DJEMBE 20",
+            "Smaterial":"Madera con piel natural",
+            "Smeasures":"12 cm diámetro x 20 cm alto",
+            "Sprice" : "$300 MXN",
+
+            "material":"Wood with natural leather",
+            "measures": "20 cm diameter x 30 cm high ",
+            "price":"16.64 US Dollar"
+        }
+    ]
 
 }
