@@ -1,0 +1,157 @@
+{
+    "DIDGERIDOO" :[
+        {
+            "image" :"./img/1.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"BANYAN TREE 40",
+            "Smaterial":"Madera con piel natural",
+            "Smeasures":"40 cm diámetro x 8 cm ancho",
+            "Sprice" : "$2,000 MXN",
+
+            "material":"Wood with natural leather",
+            "measures": "40 cm diameter x 8 cm width",
+            "price":"110.44 US Dollar"
+        },
+        {
+            "image" :"./img/1.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"BANYAN TREE 50",
+            "Smaterial":"Madera con piel natural",
+            "Smeasures":"50 cm diámetro x 8 cm ancho",
+            "Sprice" : "$3,200 MXN",
+
+            "material":"Wood with natural leather",
+            "measures": " 50 cm diameter x 8 cm width",
+            "price":"178.42 US Dollar"
+        },
+        {
+            "image" :"./img/1.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"BANYAN TREE 60",
+            "Smaterial":"Madera con piel natural",
+            "Smeasures":"60 cm diámetro x 10 cm ancho",
+            "Sprice" : "$4,100 MXN",
+
+            "material":"Wood with natural leather",
+            "measures": " 50 cm diameter x 8 cm width",
+            "price":"228.60 US Dollar"
+        },
+
+
+
+        {
+            "image" :"./img/2.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :" DIDGERIDOO Serpiente color natural",
+            "Smaterial":"Madera",
+            "Smeasures":"45 cm  x 30 cm ",
+            "Sprice" : "$2,100 MXN",
+
+            "material":"Wood ",
+            "measures": " 45 cm  x 30 cm ",
+            "price":"117.09 US Dollar"
+        },
+        {
+            "image" :"./img/3.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :" DIDGERIDOO Serpiente decorado",
+            "Smaterial":"Madera",
+            "Smeasures":"45 cm  x 30 cm ",
+            "Sprice" : "$2,200 MXN",
+
+            "material":"Wood ",
+            "measures": " 45 cm  x 30 cm ",
+            "price":"122.66 US Dollar"
+        },
+        {
+            "image" :"./img/4.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :" DIDGERIDOO Espiral color natural",
+            "Smaterial":"Madera",
+            "Smeasures":"45 cm  x 30 cm ",
+            "Sprice" : "$1,800 MXN",
+
+            "material":"Wood ",
+            "measures": " 45 cm  x 30 cm ",
+            "price":"100.36 US Dollar"
+        },
+        {
+            "image" :"./img/5.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :" DIDGERIDOO Espiral decorado",
+            "Smaterial":"Madera",
+            "Smeasures":"45 cm  x 30 cm ",
+            "Sprice" : "$1,900 MXN",
+
+            "material":"Wood ",
+            "measures": " 45 cm  x 30 cm ",
+            "price":"105.94 US Dollar"
+        },
+
+        {
+            "image" :"./img/6.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :" DIDGERIDOO Cuadrado color natural",
+            "Smaterial":"Madera",
+            "Smeasures":"20 cm  x 12 cm ",
+            "Sprice" : "$1,400 MXN",
+
+            "material":"Wood ",
+            "measures": " 45 cm  x 30 cm ",
+            "price":"78.06 US Dollar"
+        }
+    ],
+
+   "drum" :[
+    {     
+        "image" :"./img/7.png",
+        "image2" :"img/8back.png",
+        "image3" :"",
+        "title" :" Tambor de lengüeta AKE BONO 9 notas (Japanese Sound)",
+        "Smaterial":" Acero especial ",
+        "Smeasures":": 25 cm de diámetro x 15 cm de alto",
+        "Sprice" : "$2,400 MXN",
+
+        "material":" Special Steel ",
+        "measures": " : 25 cm diameter x 15 cm high ",
+        "price":"133.81 US Dollar"
+   },
+   {     
+    "image" :"./img/9.png",
+    "image2" :"img/10back.png",
+    "image3" :"",
+    "title" :"  Tambor de lengüeta D MINOR 8 notas",
+    "Smaterial":" Acero especial ",
+    "Smeasures":": 25 cm de diámetro x 15 cm de alto",
+    "Sprice" : "$2,200 MXN",
+
+    "material":" Special Steel ",
+    "measures": " : 25 cm diameter x 15 cm high ",
+    "price":"133.15 US Dollar"
+},
+
+{     
+    "image" :"./img/11front.png",
+    "image2" :"img/12back.png",
+    "image3" :"",
+    "title" :" Tambor de lengüeta A MINOR 8 notas",
+    "Smaterial":" Acero especial ",
+    "Smeasures":": 25 cm de diámetro x 15 cm de alto",
+    "Sprice" : "$2,200 MXN",
+
+    "material":" Special Steel ",
+    "measures": " : 25 cm diameter x 15 cm high ",
+    "price":"133.15 US Dollar"
+}
+
+]
+
+}
