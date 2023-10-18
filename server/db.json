@@ -278,14 +278,125 @@
             "image" :"./img/19.png",
             "image2" :"",
             "image3" :"",
-            "title" :"DJEMBE 20",
-            "Smaterial":"Madera con piel natural",
-            "Smeasures":"12 cm diámetro x 20 cm alto",
+            "title" :" TINGKLIK",
+            "Smaterial":"Bambú",
+            "Smeasures":"35 x 38 cm, y 7cm de alto",
+            "Sprice" : "$700 MXN",
+
+            "material":"Bamboo",
+            "measures": "35 x 38 cm, and 7cm high",
+            "price":"38.84 US Dollar"
+        },
+
+        {
+            "image" :"./img/20.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :" KENARI",
+            "Smaterial":"Bambú",
+            "Smeasures":"20cm x 3 cm de diámetro",
+            "Sprice" : "$150 MXN",
+
+            "material":"Bamboo",
+            "measures": "20 cm x 3 cm diameter",
+            "price":"8.32 US Dollar"
+        },
+
+        {
+            "image" :"./img/21.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"  THUNDER 25",
+            "Smaterial":"Cartón decorado con alambre",
+            "Smeasures":"20cm x 8 cm de diámetro",
+            "Sprice" : "$200 MXN",
+
+            "material":"Cardboard decorated with wire",
+            "measures": "20 cm x 8 cm diameter",
+            "price":"11.10 US Dollar"
+        },
+        {
+            "image" :"./img/21.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"  THUNDER 15",
+            "Smaterial":"Cartón decorado con alambre",
+            "Smeasures":"15 cm x 6 cm de diámetro",
+            "Sprice" : "$100 MXN",
+
+            "material":"Cardboard decorated with wire",
+            "measures": "15 cm x 6 cm diameter",
+            "price":"5.5 US Dollar"
+        },
+
+        {
+            "image" :"./img/22.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"RAIN STICK 50",
+            "Smaterial":"Bambú relleno de piedritas",
+            "Smeasures":"50 cm x 6 cm de diámetro",
+            "Sprice" : "$250 MXN",
+
+            "material":"Bamboo filled with pebbles",
+            "measures": "50 cm x 6 cm diameter",
+            "price":"13.87 US Dollar"
+        }
+    ],
+
+    "waterSound":[
+        {
+            "image" :"./img/23.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"WATER KENARI SEEDS",
+            "Smaterial":"",
+            "Smeasures":"33cm de largo (18cm de agarradera",
             "Sprice" : "$300 MXN",
 
-            "material":"Wood with natural leather",
-            "measures": "20 cm diameter x 30 cm high ",
+            "material":"",
+            "measures": "33cm long (18cm handle)",
             "price":"16.64 US Dollar"
+        },
+        {
+            "image" :"./img/24.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"WATER PANGI SEEDS",
+            "Smaterial":"",
+            "Smeasures":"43 cm de largo (18cm de agarradera",
+            "Sprice" : "$250 MXN",
+
+            "material":"",
+            "measures": "43 cm long (18cm handle)",
+            "price":"13.87 US Dollar"
+        },
+        {
+            "image" :"./img/25.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"WATER FRUITLEATHER SEEDS",
+            "Smaterial":"",
+            "Smeasures":"33 cm de largo (18cm de agarradera",
+            "Sprice" : "$250 MXN",
+
+            "material":"",
+            "measures": "43 cm long (18cm handle)",
+            "price":"13.87 US Dollar"
+        },
+
+        {
+            "image" :"./img/26.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"STICK PANGI",
+            "Smaterial":"Bambú relleno de piedritas",
+            "Smeasures":"20cm de largo x 10cm",
+            "Sprice" : "$150 MXN",
+
+            "material":"",
+            "measures": "20cm de long x 10cm",
+            "price":"8.32 US Dollar"
         }
     ]
 
