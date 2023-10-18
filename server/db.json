@@ -341,7 +341,22 @@
             "material":"Bamboo filled with pebbles",
             "measures": "50 cm x 6 cm diameter",
             "price":"13.87 US Dollar"
+        },
+
+        {
+            "image" :"./img/27.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"KALIMBA",
+            "Smaterial":"Coco con metal",
+            "Smeasures":"15cm de diámetro x 8 a 10 cm",
+            "Sprice" : "$200 MXN",
+
+            "material":"Coconut with metal",
+            "measures": "15cm diameter x 8 to 10 cm",
+            "price":"11.10 US Dollar"
         }
+
     ],
 
     "waterSound":[
@@ -397,6 +412,34 @@
             "material":"",
             "measures": "20cm de long x 10cm",
             "price":"8.32 US Dollar"
+        }
+    ],
+    "eggShaker":[
+        {
+            "image" :"./img/28.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :"Sonajas EGG COLORS",
+            "Smaterial":"Madera rellena de chaquira",
+            "Smeasures":"8 x 5 cm ",
+            "Sprice" : "$100 MXN",
+
+            "material":"Wood filled with beads",
+            "measures": "8 x 5 cm ",
+            "price":"5.55 US Dollar"
+        },
+        {
+            "image" :"./img/28.png",
+            "image2" :"",
+            "image3" :"",
+            "title" :" Sonajas EGG TRIBAL",
+            "Smaterial":"Madera rellena de chaquira",
+            "Smeasures":"8 x 5 cm ",
+            "Sprice" : "$100 MXN",
+
+            "material":"Wood filled with beads",
+            "measures": "8 x 5 cm",
+            "price":"5.55 US Dollar"
         }
     ]
 
